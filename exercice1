@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Exercice HTML 1 : Les écoles d'ingénieurs</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Apprenant</h1>
+  Les écoles d'ingénieurs avec prépa intégrée.
+</body>
+</html>
